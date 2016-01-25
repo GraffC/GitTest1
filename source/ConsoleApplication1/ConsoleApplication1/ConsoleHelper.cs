@@ -18,6 +18,6 @@ namespace ConsoleApplication1
             return 0;
         }
 
-        int goodStuff = 9;
+        int goodStuff = 10;
     }
 }
