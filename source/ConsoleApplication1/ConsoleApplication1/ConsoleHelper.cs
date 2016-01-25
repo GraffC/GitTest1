@@ -8,6 +8,6 @@ namespace ConsoleApplication1
 {
     public class ConsoleHelper
     {
-        var helper = 4;
+        int helper = 4;
     }
 }
