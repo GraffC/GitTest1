@@ -15,5 +15,6 @@ namespace ConsoleApplication1
         {
             var helper2 = 8;
         }
+        int goodStuff = 9;
     }
 }
