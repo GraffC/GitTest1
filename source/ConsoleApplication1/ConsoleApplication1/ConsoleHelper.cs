@@ -10,5 +10,6 @@ namespace ConsoleApplication1
     {
         int helper1 = 9;
         int helper = 4;
+        int helper2 = 8;
     }
 }
