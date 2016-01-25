@@ -9,5 +9,6 @@ namespace ConsoleApplication1
     public class ConsoleHelper
     {
         int helper1 = 9;
+        int helper = 4;
     }
 }
