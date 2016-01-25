@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    public class ConsoleHelper
     {
-        static void Main(string[] args)
-        {
-            var helper = new ConsoleHelper();
-
-        }
     }
 }
