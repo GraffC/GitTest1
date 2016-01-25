@@ -14,7 +14,10 @@ namespace ConsoleApplication1
         private int doStuff1()
         {
             var helper2 = 8;
+
+            return 0;
         }
+
         int goodStuff = 9;
     }
 }
