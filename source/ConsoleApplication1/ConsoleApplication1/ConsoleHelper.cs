@@ -24,5 +24,6 @@ namespace ConsoleApplication1
         }
 
         int goodStuff = 9;
+        int goodStuff = 10;
     }
 }
