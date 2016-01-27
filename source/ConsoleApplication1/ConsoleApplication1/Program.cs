@@ -12,6 +12,9 @@ namespace ConsoleApplication1
         {
             var helper = new ConsoleHelper();
 
+
+            string chris = null;
+            chris += "m";
         }
     }
 }
