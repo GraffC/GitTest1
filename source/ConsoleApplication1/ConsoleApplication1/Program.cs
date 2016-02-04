@@ -31,6 +31,8 @@ namespace ConsoleApplication1
 
             chris += "m";
             chris += "x";
+            chris += "y";
+
         }
     }
 }
