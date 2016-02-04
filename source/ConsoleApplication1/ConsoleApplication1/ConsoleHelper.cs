@@ -18,6 +18,12 @@ namespace ConsoleApplication1
             return 0;
         }
 
+        private int doStuff2()
+        {
+            return 0;
+        }
+
         int goodStuff = 9;
+        int goodStuff2 = 10;
     }
 }
